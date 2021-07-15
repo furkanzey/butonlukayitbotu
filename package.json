@@ -1,0 +1,73 @@
+{
+    "//1": "describes your app and its dependencies",
+    "//2": "https://docs.npmjs.com/files/package.json",
+    "//3": "updating this file will download and update your packages",
+    "name": "rainbowbotu",
+    "version": "0.0.1",
+    "description": "A simple Node app built on Express, instantly up and running.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "chalk": "^2.4.2",
+      "cheerio": "^0.22.0",
+      "cleverbot.io": "^1.0.4",
+      "common-tags": "^1.8.0",
+      "country-codes": "^0.0.3",
+      "country-data": "^0.0.31",
+      "countrycodes": "^0.0.5",
+      "db-system": "^0.0.34",
+      "dblapi.js": "^2.3.0",
+      "discord.js": "^11.5.1",
+      "discord.js-commando": "^0.10.0",
+      "discord.js-minesweeper": "^1.0.5",
+      "eris": "^0.10.1",
+      "express": "^4.16.4",
+      "ffmpeg": "^0.0.4",
+      "figlet": "^1.2.4",
+      "fortnitetracker-7days-stats": "^3.3.0",
+      "generate-password": "^1.4.1",
+      "google-tts-api": "^0.0.4",
+      "hastebin-gen": "^2.0.5",
+      "imdb-api": "^4.0.3",
+      "islamic-prayer-times": "^1.0.0",
+      "jimp": "^0.8.4",
+      "mal-scraper": "^2.6.4",
+      "math-expression-evaluator": "^1.2.17",
+      "moment": "^2.24.0",
+      "moment-duration-format": "^2.2.2",
+      "ms": "^2.1.2",
+      "node-superfetch": "^0.1.9",
+      "opgg-scrape": "^1.0.0",
+      "opusscript": "^0.0.7",
+      "parse-ms": "^2.0.0",
+      "quick.db": "^7.0.0-b22",
+      "quick.hook": "^1.5.1",
+      "request": "^2.88.0",
+      "request-promise-native": "^1.0.7",
+      "speedtest-net": "^1.6.0",
+      "sqlite3": "^4.1.0",
+      "steam-provider": "^0.2.0",
+      "superagent": "^5.1.0",
+      "useful-package": "^0.0.64",
+      "user-instagram": "^1.0.0",
+      "weather-js": "^2.0.0",
+      "wikijs": "^6.0.0",
+      "yo-mamma": "^1.3.0",
+      "youtube-info": "^1.3.2",
+      "lodash.unset": "^4.5.2"
+    },
+    "engines": {
+      "node": "8.x"
+    },
+    "repository": {
+      "url": "https://glitch.com/edit/#!/rainbowbotu"
+    },
+    "license": "MIT",
+    "keywords": [
+      "node",
+      "glitch",
+      "express"
+    ]
+  }
